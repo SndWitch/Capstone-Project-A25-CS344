@@ -22,7 +22,7 @@ Meningkatkan efisiensi proses rekrutmen dengan penilaian wawancara yang lebih ce
 ├── dashboard.py                # Aplikasi Streamlit untuk visualisasi hasil interview
 ├── final_payload.json          # Output hasil STT dan scoring LLM
 ├── requirements.txt            # Daftar dependency Untuk File Final_Capstone_project..ipnyb
-├── requirements.txt            # Daftar dependency Untuk dashboard.py
+├── requirements_dashboard.txt            # Daftar dependency Untuk dashboard.py
 ├── Final_Capstone_Project.ipynb# Notebook eksperimen & pipeline utama
 ```
 
