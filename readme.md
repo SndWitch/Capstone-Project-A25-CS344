@@ -2,6 +2,9 @@
 
 IntelliView adalah **AI-Powered Interview Assessment System** yang dikembangkan sebagai proyek Capstone (A25-CS344) untuk mengotomatisasi penilaian wawancara kandidat secara objektif, konsisten, dan efisien.
 
+## 🎯 Tujuan Proyek
+Meningkatkan efisiensi proses rekrutmen dengan penilaian wawancara yang lebih cepat, objektif, transparan, dan minim bias.
+
 ## 📌 Fitur Utama
 - **Speech-to-Text (Whisper)**: Mengonversi audio wawancara menjadi transkrip teks.
 - **AI Interview Scoring (Groq LLM API)**: Menganalisis jawaban kandidat berdasarkan rubrik penilaian dan menghasilkan skor serta reasoning.
@@ -37,8 +40,6 @@ Dashboard menampilkan:
 - Streamlit
 - Pandas & Matplotlib
 
-## 🎯 Tujuan Proyek
-Meningkatkan efisiensi proses rekrutmen dengan penilaian wawancara yang lebih cepat, objektif, transparan, dan minim bias.
 
 ---
 Proyek ini dikembangkan dalam program **Asah led by Dicoding in association with Accenture**.
